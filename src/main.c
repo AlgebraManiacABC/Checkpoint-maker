@@ -9,7 +9,7 @@ int wh = INIT_WIN_H;
 
 int main(int argc, char *argv[])
 {
-	char windowTitle[] = "SDL_Boilerplate";
+	char windowTitle[] = "Checkpoint Maker (v0.1.0a)";
 	if(initWindow(SDL_INIT_EVERYTHING, SDL_WINDOW_RESIZABLE, SDL_RENDERER_ACCELERATED,
 			windowTitle,
 			SDL_WINDOWPOS_CENTERED, SDL_WINDOWPOS_CENTERED,

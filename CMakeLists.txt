@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 3.20)
 #set(CMAKE_VERBOSE_MAKEFILE ON)
 
-project(SDL_Boilerplate)
+project(Checkpoint-maker)
 
 set(CMAKE_C_STANDARD 23)
 set(CMAKE_BUILD_TYPE Debug)
